@@ -1,3 +1,4 @@
-### 안녕하세요😶‍🌫️
+### Hi, guys😶‍🌫️
 
-✍ I am currently studying data analysis#Git-Tutorial
+✍ I am currently studying data analysis
+
